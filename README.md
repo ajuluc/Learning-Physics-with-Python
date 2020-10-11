@@ -1,6 +1,6 @@
 # Motivation
 
-* Improving the Secondary education experience (in Nigeria) using programming tools such as github, python, overleaf/LaTex & R Markdown.  
+* Improving the Secondary education experience (in Nigeria) using programming tools and platforms such as github, python, overleaf/LaTex & R Markdown.  
 
 * Making Programming more inclusive for students with minimal opportunities/funding. 
 
